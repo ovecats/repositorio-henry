@@ -1,0 +1,11 @@
+
+
+variables:es un recipiente que almacena un valor.
+string: es una cadena de texto 
+
+funciones: son un conjunto de ordenes que se ejecutan secuencialmente.
+return: retorna un dato o valor
+
+declaraciones: son condicionales que ayudan a tomar decisiones
+
+valores booleano: nos indican si la condicion es true o false
